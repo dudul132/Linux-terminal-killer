@@ -1,0 +1,7 @@
+If you want to use the Linux terminal killer, you have to install the application below.
+sudo apt install xterm
+sudo apt install nyancat
+sudo apt install cmatrix  
+sudo apt install tty-clock
+sudo apt install coreutils 
+sudo apt install procps
